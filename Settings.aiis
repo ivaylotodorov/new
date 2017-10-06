@@ -180,19 +180,19 @@
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "1897e01b-984c-4ab2-abe1-734594477b50",
     "SourceControlRepository": {
-      "__type": "ArtOfTest.Common.TFSClient.TFSRepositoryInfo",
+      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
       "__value": {
-        "RemotePath": "$/TestingProject/BuildProcessTemplates/TestProjectTFS/TestProject101",
-        "ServerType": 1,
+        "RemotePath": "https://github.com/ivaylotodorov/new.git",
         "ServerInfo": {
-          "__type": "ArtOfTest.Common.TFSClient.TFSServerInfo",
+          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
           "__value": {
-            "ServerName": "https://tfsteststudio.visualstudio.com/DefaultCollection"
+            "ServerName": "https://github.com/ivaylotodorov/new.git"
           }
-        }
+        },
+        "ServerType": 2
       }
     },
-    "IsOnline": false,
+    "IsOnline": true,
     "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",
@@ -212,7 +212,8 @@
     "OutputFolder": "bin",
     "ExcludedFiles": [],
     "InDevelopmentFiles": [
-      "Google.tstest"
+      "Google.tstest",
+      "New Folder\\Google.tstest"
     ],
     "DisabledTranslators": [],
     "SkipFindExpressionSetDataDrivenWarning": false,
