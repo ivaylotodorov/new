@@ -1,0 +1,28 @@
+    ======  ======
+    Time:10/11/2019 1:42:14 PM
+    Title: Initiate log
+    Message: 
+    Time:10/11/2019 1:42:14 PM
+    Title: Initiate InternalManager
+    Message: Trying to Validate License
+    Time:10/11/2019 1:42:14 PM
+    Title: Requesting EVT
+    Message: EVTP
+    Time:10/11/2019 1:42:14 PM
+    Title: Requesting Validation
+    Message: ILMValidate
+    Time:10/11/2019 1:42:14 PM
+    Title: LICENSER
+    Message: READ REGS START
+    Time:10/11/2019 1:42:14 PM
+    Title: Requesting Validation
+    Message: ILMValidate True
+    Time:10/11/2019 1:42:14 PM
+    Title: Requesting Validation
+    Message: ILMValidate True NotTrial
+    Uncategorized: Orchestrator._iUIProject_ProjectOpened() : Project 'G1' Opened.
+    Uncategorized: Orchestrator.set_SelectedProject() : Active Project is : 'G1'
+    TestStudio: <>c__DisplayClass35_0.<LoadInternal>b__1() : Extract elements time: 00:00:00.0504373
+    TestStudio: <>c__DisplayClass35_0.<LoadInternal>b__1() : Merge elements time: 00:00:00.0019534
+    TestStudio: <>c__DisplayClass35_0.<LoadInternal>b__1() : Total Elements count: 0
+    TestStudio: ElementsExplorerViewModel.SyncNodes() : Added 0 visual elements in the Elements Explorer tree.
